@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/aopalliance-repackaged-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/hk2-api-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/hk2-locator-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/hk2-utils-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/javax.inject-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-guava-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/Jersey/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Welcome/Downloads/json-20090211.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
